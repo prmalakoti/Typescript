@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "rootDir": "src",
+    "outDir": "dist",
+    "module": "CommonJS",
+    "baseUrl": "src",
+    "skipLibCheck": true,
+    "sourceMap": true,
+    //"noEmitOnError": true, // stop if error in file
+    "strictNullChecks": true,
+    "removeComments": true
+  },
+  "lib": [
+    "es2018",
+    "DOM"
+  ]
+  // "files": [
+  //   "src/01-why-typescript.ts"
+  // ]
+}

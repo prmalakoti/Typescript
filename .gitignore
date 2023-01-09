@@ -1,0 +1,4 @@
+# package directories
+rest-api/node_modules/
+fundamentals/node_modules/
+rest-api/package-lock.json
